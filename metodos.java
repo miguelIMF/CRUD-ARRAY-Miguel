@@ -4,7 +4,8 @@ import java.util.Scanner;
 import java.io.IOException;
 
 public class metodos {
-
+	
+	//Se inicializan las variables que se van a usar en el resto de metodos
 	private static int tamanoArrays = 5;
 	private static String[] titulos = new String[tamanoArrays];
 	private static int[] anos = new int[tamanoArrays];;
