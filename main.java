@@ -16,6 +16,8 @@ public class main {
 			
 			//Se ejecuta el bucle con las opciones disponibles hasta que el usuario escoja un opcion valida
 			do {
+				
+				//A cada vuelta del bucle se comprueba el espacio disponible en los arrays, si esta lleno informa de ello
 				metodos.comprobarEspacio();
 				metodos.mostrarOpciones();
 
