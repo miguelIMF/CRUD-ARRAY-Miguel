@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"CRUD_ARRAY","l":"main"},{"p":"CRUD_ARRAY","l":"metodos"}];updateSearchResults();
